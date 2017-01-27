@@ -1,0 +1,32 @@
+
+Send part 1 of frame 1 to Station 1
+A collision informed, wait for 0 time slot
+Send part 1 of frame 1 to Station 1
+A collision informed, wait for 1 time slot
+Send part 1 of frame 1 to Station 1
+A collision informed, wait for 3 time slot
+Send part 1 of frame 1 to Station 1
+A collision informed, wait for 1 time slot
+Send part 1 of frame 1 to Station 1
+A collision informed, wait for 31 time slot
+Send part 1 of frame 1 to Station 1
+A collision informed, wait for 10 time slot
+Send part 1 of frame 1 to Station 1
+A collision informed, wait for 108 time slot
+Send part 1 of frame 1 to Station 1
+A collision informed, wait for 41 time slot
+Send part 1 of frame 1 to Station 1
+A collision informed, wait for 205 time slot
+Send part 1 of frame 1 to Station 1
+A collision informed, wait for 186 time slot
+Send part 1 of frame 1 to Station 1
+A collision informed, wait for 939 time slot
+Send part 1 of frame 1 to Station 1
+A collision informed, wait for 498 time slot
+Send part 1 of frame 1 to Station 1
+A collision informed, wait for 763 time slot
+Send part 1 of frame 1 to Station 1
+A collision informed, wait for 483 time slot
+Send part 1 of frame 1 to Station 1
+A collision informed, wait for 326 time slot
+Send part 1 of frame 1 to Station 1

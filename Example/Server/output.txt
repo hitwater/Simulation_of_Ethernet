@@ -1,0 +1,31 @@
+
+Receive part 1 of frame 1 from Station 1, to Station 1
+Receive part 1 of frame 1 from Station 2, to Station 1
+Inform Station 1 a collision
+Inform Station 2 a collision
+Inform Station 1 a collision
+Inform Station 2 a collision
+Receive part 1 of frame 2 from Station 1, to Station 11
+Receive part 2 of frame 2 from Station 1, to Station 11
+Transfer part 1 of frame 2 from Station 1, to Station 11
+Receive part 1 of frame 1 from Station 2, to Station 11
+Inform Station 1 a collision
+Inform Station 2 a collision
+Inform Station 1 a collision
+Inform Station 2 a collision
+Inform Station 1 a collision
+Inform Station 2 a collision
+Inform Station 1 a collision
+Inform Station 2 a collision
+Receive part 1 of frame 3 from Station 1, to Station 11
+Receive part 2 of frame 3 from Station 1, to Station 11
+Transfer part 1 of frame 3 from Station 1, to Station 11
+Inform Station 1 a collision
+Inform Station 2 a collision
+Receive part 1 of frame 4 from Station 1, to Station 11
+Receive part 2 of frame 4 from Station 1, to Station 11
+Transfer part 1 of frame 4 from Station 1, to Station 11
+Receive part 2 of frame 4 from Station 1, to Station 11
+Transfer part 2 of frame 4 from Station 1, to Station 11
+Receive part 2 of frame 4 from Station 1, to Station 11
+Transfer part 2 of frame 4 from Station 1, to Station 11
